@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BackgroundTaskProject</string>
+
+    <string name="service">Service</string>
+    <string name="thread">Thread</string>
+    <string name="async">Async</string>
+    <string name="task_executed">Task Executed</string>
+</resources>
